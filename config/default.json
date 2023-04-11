@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://taskapi:taskapi@cluster0.qudjc.mongodb.net/?retryWrites=true&w=majority"
+}
